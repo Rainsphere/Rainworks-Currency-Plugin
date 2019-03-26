@@ -1,6 +1,6 @@
 /*:
  * @plugindesc Add currency management to your game. [v1.00]
- * @author Rainworks Plugins
+ * @author Rainsphere
  *
  * @help
  * ============================================================================
